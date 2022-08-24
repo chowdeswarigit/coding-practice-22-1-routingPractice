@@ -1,0 +1,24 @@
+/* Write your CSS code here */
+.about-container {
+  display: flex;
+  direction: column;
+  text-align: center;
+  align-items: center;
+  height: 70h;
+  text-align: center;
+}
+.home-image {
+  height: 100px;
+  width: 100px;
+}
+.heading {
+  font-size: 30px;
+  font-weight: 500;
+  color: #551e53;
+}
+.about-paragraph {
+  font-family: 'Roboto';
+  font-size: 20px;
+  text-align: center;
+  color: #555555;
+}
